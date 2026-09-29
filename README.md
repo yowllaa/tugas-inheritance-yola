@@ -1,5 +1,15 @@
 # Latihan Inheritance - Object Oriented Programming
 
+## GAMBAR PROGRAM
+
+# 1. Bujur Sangkar : ![alt text](image-1.png)
+
+# 2. Bujur Lingkaran : ![alt text](image-2.png)
+
+# 3. Bujur Silinder :![alt text](image-3.png)
+
+# 4. Bujur Demo semua : ![alt text](image.png)
+
 ## Struktur Class
 
 Program terdiri dari beberapa class dengan hubungan inheritance sebagai berikut:
